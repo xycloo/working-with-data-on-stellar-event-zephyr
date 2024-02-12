@@ -1,0 +1,25 @@
+name = "stellar-event-starter"
+
+[[tables]]
+name = "avgfee"
+
+[[tables.columns]]
+name = "classic"
+col_type = "BYTEA"
+
+[[tables.columns]]
+name = "contracts"
+col_type = "BYTEA"
+
+[[tables.columns]]
+name = "other"
+col_type = "BYTEA"
+
+[[tables.columns]]
+name = "fee_sor"
+col_type = "BYTEA"
+
+[[tables.columns]]
+name = "fee_clas"
+col_type = "BYTEA"
+
