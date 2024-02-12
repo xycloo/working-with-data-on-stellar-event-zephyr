@@ -52,7 +52,7 @@ Example result:
 ```
 
 At the current stage of Zephyr, the data stored in the index needs to be deserialized, and to smoothen things up we've built a 
-very simple app to do so. You can head over to ... and paste in the field the base64 data, for example:
+very simple app to do so. You can head over to https://working-with-data-on-stellar-event-zephyr.pages.dev/ and paste in the field the base64 data, for example:
 
 ![alt text](./yew_demo.png)
 
